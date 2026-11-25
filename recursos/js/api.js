@@ -1,4 +1,4 @@
-const URL_PRODUCTOS = "./recursos/data/productos.json";
+const URL_PRODUCTOS = "../recursos/data/productos.json";
 
 export async function obtenerProductos() {
   try {

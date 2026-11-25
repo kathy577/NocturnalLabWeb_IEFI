@@ -1,0 +1,23 @@
+# Dependencias y entornos locales
+node_modules/
+.pnp/
+.pnp.js
+
+# Variables de entorno y secretos
+.env
+.env.local
+.env.*.local
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Temporales, logs y cachés
+*.log
+*.tmp
+*.cache
+.lesshst
+.node_repl_history
