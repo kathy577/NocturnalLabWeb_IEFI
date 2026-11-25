@@ -1,0 +1,74 @@
+[
+  {
+    "id": "remera-gotica-estampada",
+    "nombre": "Remera Gótica Estampada",
+    "imagen": "./recursos/imagenes/remeragoth.jpg",
+    "precio": 25000,
+    "categoria": "remeras",
+    "talles": ["s", "m", "l"],
+    "destacado": true
+  },
+  {
+    "id": "pollera-victoriana",
+    "nombre": "Pollera Victoriana",
+    "imagen": "./recursos/imagenes/pollera.jpg",
+    "precio": 37000,
+    "categoria": "polleras",
+    "talles": ["s", "m", "l"],
+    "destacado": true
+  },
+  {
+    "id": "collar-acero-unisex",
+    "nombre": "Collar de acero unisex",
+    "imagen": "./recursos/imagenes/collar.jpg",
+    "precio": 18000,
+    "categoria": "accesorios",
+    "talles": [],
+    "destacado": true
+  },
+  {
+    "id": "pollera-coquet-gotica",
+    "nombre": "Pollera coquet gótica",
+    "imagen": "./recursos/imagenes/pollera_2.jpg",
+    "precio": 20000,
+    "categoria": "polleras",
+    "talles": ["s", "m", "l"],
+    "destacado": false
+  },
+  {
+    "id": "collar-corazon-acero",
+    "nombre": "Collar de corazón de acero",
+    "imagen": "./recursos/imagenes/collar_1.jpg",
+    "precio": 10000,
+    "categoria": "accesorios",
+    "talles": [],
+    "destacado": false
+  },
+  {
+    "id": "conjunto-eclipse",
+    "nombre": "Conjunto Eclipse",
+    "imagen": "./recursos/imagenes/conjunto.jpg",
+    "precio": 50000,
+    "categoria": "polleras",
+    "talles": ["s", "m", "l"],
+    "destacado": false
+  },
+  {
+    "id": "top-sonambula",
+    "nombre": "Top Sonámbula",
+    "imagen": "./recursos/imagenes/top.jpg",
+    "precio": 25000,
+    "categoria": "remeras",
+    "talles": ["s", "m", "l"],
+    "destacado": false
+  },
+  {
+    "id": "remera-gotica-kipao",
+    "nombre": "Remera Gótica Kipao",
+    "imagen": "./recursos/imagenes/remera_1.jpg",
+    "precio": 40000,
+    "categoria": "remeras",
+    "talles": ["s", "m", "l"],
+    "destacado": false
+  }
+]
